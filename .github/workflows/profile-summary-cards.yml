@@ -3,7 +3,10 @@ name: GitHub-Profile-Summary-Cards
 on:
   create:
   push:
-  schedule: # execute every hour  default: "* */24 * * *" runs at every 24th hour
+  schedule:
+    # Default expression to run at every 24th hour
+    # - cron: "* */24 * * *" 
+    # execute every hour
     - cron: "* */1 * * *"
   workflow_dispatch:
 
