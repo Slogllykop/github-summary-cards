@@ -7,7 +7,7 @@ on:
     # Default expression to run at every 24th hour
     # - cron: "* */24 * * *" 
     # execute every hour
-    - cron: "* */1 * * *"
+    - cron: "59 */1 * * *"
   workflow_dispatch:
 
 jobs:
