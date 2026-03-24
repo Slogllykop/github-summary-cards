@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Slogllykop/github-summary-cards/master/profile-summary-card-output/aura/4-productive-time.svg)
+```
+
+    
